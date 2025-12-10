@@ -1,6 +1,5 @@
 # TIC-TAC-TOE-GAME
 This project is a simple Tic Tac Toe game developed in C, designed as a part of my programming practice. The game allows a player to compete against the computer or another player (based on your version). It runs in the terminal and uses basic C concepts like loops, arrays, conditional statements, and functions.
-Here is a ready-to-use, clean README + submission instructions specifically for your TIC-TAC-TOE project.
 
 2. Objective
 
@@ -48,7 +47,7 @@ X | 2 | 3
 (You can insert the actual screenshot here.)
 
 
----
+
 
 5. Notes / Assumptions
 
